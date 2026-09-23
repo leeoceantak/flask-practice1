@@ -1,24 +1,5 @@
-# HW1
+<img width="1275" height="965" alt="image" src="https://github.com/user-attachments/assets/5450bdca-caa0-4d70-a753-e4a0844fb2e3" />
 
-Flask 과제를 작성할 기본 구조입니다. 세부 과제 기능은 아직 구현하지 않았습니다.
+<img width="1274" height="855" alt="image" src="https://github.com/user-attachments/assets/b0d13f10-5e84-4adb-9981-7c5da8648ea9" />
 
-## 폴더 구성
-
-- `app.py`: 과제용 Flask 앱
-- `templates/`: 과제용 HTML 템플릿
-- `README.md`: 과제 설명과 실행 방법
-
-가상환경 `venv/`와 `requirements.txt`는 상위 `flask-practice1/` 폴더의 것을 함께 사용합니다.
-상위 폴더의 `app.py`와 `templates/`는 수업 실습용입니다.
-
-## 실행 방법
-
-Windows PowerShell에서 `flask-practice1` 폴더를 기준으로 실행합니다.
-
-```powershell
-.\venv\Scripts\python.exe -m pip install -r requirements.txt
-.\venv\Scripts\python.exe HW1\app.py
-```
-
-브라우저에서 http://127.0.0.1:5000 에 접속합니다.
-다른 실습 서버가 5000번 포트를 사용 중이면 먼저 종료합니다.
+<img width="1279" height="814" alt="image" src="https://github.com/user-attachments/assets/8be769c8-072f-42ee-b3f9-85dc70ccace7" />
